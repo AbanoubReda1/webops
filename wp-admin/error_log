@@ -1,0 +1,2 @@
+[15-Jun-2023 14:35:19 UTC] PHP Warning:  unlink(Logo.svg): No such file or directory in /home3/smartul7/public_html/webops-smarttecsolution-com/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php on line 199
+[15-Jun-2023 14:35:24 UTC] PHP Warning:  unlink(): No such file or directory in /home3/smartul7/public_html/webops-smarttecsolution-com/wp-content/plugins/elementor-pro/modules/assets-manager/asset-types/icons/custom-icons.php on line 199
